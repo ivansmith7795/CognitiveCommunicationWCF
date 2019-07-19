@@ -1,2 +1,2 @@
 # CognitiveCommunicationWCF
-Tuesday, July 16, 2019
+Thursday, July 18, 2019
