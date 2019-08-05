@@ -1,2 +1,2 @@
 # CognitiveCommunicationWCF
-Saturday, August 3, 2019
+Sunday, August 4, 2019
