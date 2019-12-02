@@ -1,2 +1,2 @@
 # CognitiveCommunicationWCF
-Tuesday, November 26, 2019
+Sunday, December 1, 2019
