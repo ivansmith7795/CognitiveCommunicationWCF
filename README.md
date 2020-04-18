@@ -1,2 +1,2 @@
 # CognitiveCommunicationWCF
-Thursday, April 16, 2020
+Friday, April 17, 2020
