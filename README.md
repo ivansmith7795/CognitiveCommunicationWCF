@@ -1,2 +1,2 @@
 # CognitiveCommunicationWCF
-Sunday, July 19, 2020
+Friday, July 24, 2020
