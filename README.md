@@ -1,2 +1,2 @@
 # CognitiveCommunicationWCF
-Saturday, August 8, 2020
+Tuesday, August 18, 2020
