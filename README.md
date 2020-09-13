@@ -1,2 +1,2 @@
 # CognitiveCommunicationWCF
-Thursday, September 10, 2020
+Saturday, September 12, 2020
