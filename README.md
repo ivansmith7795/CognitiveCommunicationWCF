@@ -1,2 +1,2 @@
 # CognitiveCommunicationWCF
-Wednesday, December 2, 2020
+Sunday, December 6, 2020
