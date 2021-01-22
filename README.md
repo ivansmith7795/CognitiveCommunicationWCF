@@ -1,2 +1,2 @@
 # CognitiveCommunicationWCF
-Wednesday, January 20, 2021
+Thursday, January 21, 2021
